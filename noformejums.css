@@ -1,0 +1,34 @@
+h1 {font-size: 40px;
+color: rgb(131, 58, 9);
+text-align: center;}
+
+/*body {background-color: beige;} šis ir krāsu fona paraugs*/
+body {background-image: url("fons.jpg");}
+
+h2 {font-size: 25;
+color:rgb(69, 17, 190);
+text-align: left;}
+
+p {font-size: 20px;
+    }
+
+p.a {font-size: 30px
+    color: aquamarine;}
+
+
+
+.block
+{display: inline-block;
+background: skyblue;
+width: 100px;
+height:100px;
+border: 1px solid orange;
+}
+
+.blockliels
+{display: inline-block;
+background: rgb(217, 224, 227);
+width: 600px;
+height:110px;
+border: 1px solid orange;
+}
